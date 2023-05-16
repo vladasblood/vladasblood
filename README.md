@@ -1,6 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=500&size=30&duration=3000&pause=1000&color=55F7E5&background=FFFFFF00&width=435&lines=Starting...;Learning...;Optimizing...;Executing..." alt="Typing SVG" /></a>
 
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vladimir
 ================================================================================================================================
 
