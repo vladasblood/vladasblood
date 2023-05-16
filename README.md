@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=500&size=30&duration=3000&pause=1000&color=55F7E5&background=FFFFFF00&width=435&lines=Starting...;Learning...;Optimizing...;Executing...;Hello%2C+I+am+Vlad+!!!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=500&size=30&duration=3000&pause=1000&color=55F7E5&background=FFFFFF00&width=435&lines=Starting...;Learning...;Optimizing...;Executing..." alt="Typing SVG" /></a>
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vladimir
@@ -29,7 +29,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="https://www.linkedin.com/in/vladimir-guerrero-178b6a24b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
-<a href="https://www.stackoverflow.com/users/21904971" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+<a href="https://www.stackoverflow.com/users/21904971" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
+### Badges<b>My GitHub Stats</b><a
 href="http://www.github.com/vladasblood"><img src="https://github-readme-stats.vercel.app/api?username=vladasblood&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vladasblood's GitHub stats" /></a><a href="https://github.com/vladasblood" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladasblood&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--
