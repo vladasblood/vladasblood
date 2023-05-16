@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=500&size=30&duration=3000&pause=1000&color=55F7E5&background=FFFFFF00&width=435&lines=Starting...;Learning...;Optimizing...;Executing...;Hello%2C+I+am+Vlad+!!!" alt="Typing SVG" /></a>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vladasblood"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vladasblood&layout=compact"/>
 
 <!--
 **vladasblood/vladasblood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
