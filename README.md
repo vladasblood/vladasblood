@@ -3,8 +3,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vladimir
 ================================================================================================================================
 
-*   🌍  I'm based in Philippines
-*   🖥️  <mark>MAINTENANCE</mark>See my portfolio at [Google Sites](http://sites.google.com/view/vaguerrero/home)
+*   🌍  I'm based in the Philippines
+*   🖥️  **MAINTENANCE** See my portfolio at [Google Sites](http://sites.google.com/view/vaguerrero/home)
 *   ✉️  You can contact me at [vladimirguerrero22@gmail.com](mailto:vladimirguerrero22@gmail.com)
 *   🧠  I'm learning C#<a href="https://www.github.com/vladasblood" target="_blank" rel="noreferrer">
   
