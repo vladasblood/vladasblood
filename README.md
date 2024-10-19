@@ -29,7 +29,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Socials  
 
 <p align="left"> <a href="https://discord.com/users/1052229997475151905" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/vladimir-guerrero-178b6a24b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/vladimir-al-guerrero-178b6a24b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.stackoverflow.com/users/21904971" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ### Badges
