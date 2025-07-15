@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   🌍  I'm based in the Philippines
 *   🖥️  See my portfolio at [vaguerrero](https://vladimir-al-guerrero-portfolio.vercel.app/)
 *   ✉️  You can contact me at [vladimirguerrero22@gmail.com](mailto:vladimirguerrero22@gmail.com)
-*   🧠  I'm learning C#<a href="https://www.github.com/vladasblood" target="_blank" rel="noreferrer">
+*   🧠  I'm currently learning C#<a href="https://www.github.com/vladasblood" target="_blank" rel="noreferrer">
   
 <img src="https://img.shields.io/github/followers/vladasblood?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917">
 
